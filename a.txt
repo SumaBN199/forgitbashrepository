@@ -1,1 +1,2 @@
 this is the first a text.
+hi i am from new folder
